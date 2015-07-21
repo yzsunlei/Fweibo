@@ -245,6 +245,7 @@ $(function () {
 	});
 	//回复
 	$('.reply a').live('click', function () {
+        
 		var reply = $(this).parent().siblings('a').html();
 		$(this).parents('.comment_list').find('textarea').val('回复@' + reply + ' ：');
 		return false;
