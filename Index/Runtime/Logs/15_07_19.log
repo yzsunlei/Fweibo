@@ -1,0 +1,84 @@
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000834s ]
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000903s ]
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000565s ]
+[ 2015-07-19T22:43:38+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000611s ]
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000742s ]
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000804s ]
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000496s ]
+[ 2015-07-19T22:43:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000538s ]
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.001099s ]
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001179s ]
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000559s ]
+[ 2015-07-19T22:43:40+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000602s ]
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.001254s ]
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001349s ]
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000508s ]
+[ 2015-07-19T22:43:50+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000560s ]
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000942s ]
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001019s ]
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000534s ]
+[ 2015-07-19T22:54:30+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000580s ]
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.001091s ]
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001186s ]
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000607s ]
+[ 2015-07-19T22:54:37+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000667s ]
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000890s ]
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000980s ]
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000491s ]
+[ 2015-07-19T22:54:39+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000535s ]
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000819s ]
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000886s ]
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000451s ]
+[ 2015-07-19T22:55:29+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000496s ]
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000845s ]
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000919s ]
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000420s ]
+[ 2015-07-19T22:55:31+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000459s ]
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.001785s ]
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001906s ]
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000866s ]
+[ 2015-07-19T23:01:10+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001000s ]
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000995s ]
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001073s ]
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000779s ]
+[ 2015-07-19T23:01:12+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000849s ]
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.001039s ]
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001143s ]
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000679s ]
+[ 2015-07-19T23:01:58+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000771s ]
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000735s ]
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000806s ]
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000452s ]
+[ 2015-07-19T23:02:02+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000497s ]
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --START--
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run CheckRoute Behavior [ RunTime:0.000631s ]
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ route_check ] --END-- [ RunTime:0.000691s ]
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --START--
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000383s ]
+[ 2015-07-19T23:02:04+08:00 ] /fweibo/index.php/User/index/uname/%E5%AD%99%E9%B3%84%E6%A2%A8 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000429s ]
